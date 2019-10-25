@@ -17,8 +17,8 @@ namespace w02
             b1.CzyWinda();
             Console.WriteLine("Blok 2");
             blok b2 = new blok();
-            b1.iloscPieter = 3;
-            b1.senior = true;
+            b2.iloscPieter = 3;
+            b2.senior = true;
             b2.CzyWinda();
             Console.ReadKey();
         }
